@@ -183,10 +183,16 @@ footer .logo img {
   /* border: 1px dotted orange; */
 }
 
+.footer_option > ul {
+  padding: 0;
+  /* border: 1px solid red; */
+}
+
 .footer_option > ul > li {
   display: flex;
   align-items: flex-start;
   margin-bottom: 1em;
+  /* border: 1px dotted orange; */
 }
 
 .footer_option div {
