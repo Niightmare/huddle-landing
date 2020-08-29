@@ -247,7 +247,7 @@ li img {
 
   .content {
     text-align: initial;
-    padding: 2em 5em 0 5em;
+    padding: 0em 5em 0 5em;
   }
 
   .card {
@@ -273,7 +273,7 @@ li img {
   }
 
   .header-content {
-    width: 60%;
+    width: 55%;
     padding-right: 4%;
   }
 
@@ -282,11 +282,11 @@ li img {
   }
 
   .try-it {
-    padding: 10px 55px;
+    padding: 1em 3em;
   }
 
   .btn-pink {
-    padding: 14px 55px;
+    padding: 1em 5em;
   }
 
   .card {
