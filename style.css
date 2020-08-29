@@ -265,7 +265,7 @@ li img {
   h1,
   h2,
   h3 {
-    font-size: initial;
+    font-size: revert;
   }
 
   .hero-image {
