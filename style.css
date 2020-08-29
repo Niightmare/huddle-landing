@@ -183,7 +183,7 @@ footer .logo img {
   /* border: 1px dotted orange; */
 }
 
-.footer_option > li {
+.footer_option > ul > li {
   display: flex;
   align-items: flex-start;
   margin-bottom: 1em;
